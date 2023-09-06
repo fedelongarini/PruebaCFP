@@ -1,5 +1,4 @@
 if (true) {
-    let nombre = "katy";
+    let nombre = "Katy";
+    console.log(nombre)
 }
-
-console.log(nombre)
